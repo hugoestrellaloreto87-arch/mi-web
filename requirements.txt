@@ -1,0 +1,8 @@
+flask
+sqlalchemy
+authlib
+pandas
+matplotlib
+scikit-learn
+openpyxl
+flask-cors
